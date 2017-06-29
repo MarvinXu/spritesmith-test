@@ -1,3 +1,8 @@
-body{
-	background-color: #ededed;
+@import "~home-sprite.scss";
+body {
+  margin: 0;
+}
+.bg {
+  // background: url(./zz.jpg) no-repeat center;
+  height: 770px;
 }
